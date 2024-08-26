@@ -1,0 +1,11 @@
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\bin\Debug\net8.0\OBDC.Common.Core.deps.json
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\bin\Debug\net8.0\OBDC.Common.Core.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\bin\Debug\net8.0\OBDC.Common.Core.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.AssemblyInfoInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.AssemblyInfo.cs
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.csproj.CoreCompileInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\refint\OBDC.Common.Core.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\OBDC.Common.Core.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.Core.Exceptions.PlatformUserNotFoundException\obj\Debug\net8.0\ref\OBDC.Common.Core.dll

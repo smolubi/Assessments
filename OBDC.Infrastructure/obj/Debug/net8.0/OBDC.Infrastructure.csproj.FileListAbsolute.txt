@@ -1,0 +1,15 @@
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\bin\Debug\net8.0\OBDC.Infrastructure.deps.json
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\bin\Debug\net8.0\OBDC.Infrastructure.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\bin\Debug\net8.0\OBDC.Infrastructure.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\bin\Debug\net8.0\OBDC.Core.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\bin\Debug\net8.0\OBDC.Core.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.AssemblyInfo.cs
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Inf.5F1DB4B2.Up2Date
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\refint\OBDC.Infrastructure.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\OBDC.Infrastructure.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Infrastructure\obj\Debug\net8.0\ref\OBDC.Infrastructure.dll

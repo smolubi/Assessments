@@ -1,0 +1,6 @@
+@OBDC_Url = http://localhost:5115
+
+GET {{OBDC_Url}}/weatherforecast/
+Accept: application/json
+
+###

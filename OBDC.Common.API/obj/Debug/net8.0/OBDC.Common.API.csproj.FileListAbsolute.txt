@@ -1,0 +1,12 @@
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\bin\Debug\net8.0\OBDC.Common.API.deps.json
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\bin\Debug\net8.0\OBDC.Common.API.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\bin\Debug\net8.0\OBDC.Common.API.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.csproj.AssemblyReference.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.AssemblyInfoInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.AssemblyInfo.cs
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.csproj.CoreCompileInputs.cache
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\refint\OBDC.Common.API.dll
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\OBDC.Common.API.pdb
+C:\Users\sechaba.molubi\source\repos\OBDC\OBDC.Common.API\obj\Debug\net8.0\ref\OBDC.Common.API.dll

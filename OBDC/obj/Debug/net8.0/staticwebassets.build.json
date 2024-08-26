@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jX9ApevDR1K79A6nG3VaJ8Ov2sCN8JahPuAbFdY8STk=",
+  "Source": "OBDC.API",
+  "BasePath": "_content/OBDC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
